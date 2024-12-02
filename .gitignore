@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build output
+/dist/
+build/
+out/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Environment files (like API keys or environment variables)
+.env
+
+# Package manager files
+yarn-debug.log*
+yarn-error.log*
+npm-debug.log*
+
+# Compiled CSS or JavaScript
+*.min.css
+*.min.js
+
+# Image files (if you don't want to track them)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Other files you don't need to track
+*.zip
+*.tar
+*.tar.gz
